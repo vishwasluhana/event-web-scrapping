@@ -4,7 +4,7 @@ Scrapping for some web pages, where multiple events are posted using BeautifulSo
 
 To start run following commands:
 
-Install BeautifulSoup library
+Install BeautifulSoup library:
 
 `pip install beautifulsoup4`
 
